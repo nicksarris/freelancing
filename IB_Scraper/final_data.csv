@@ -1,0 +1,93 @@
+IB_Symbol,Description,Symbol,Currency
+NIY,Yen Denominated Nikkei 225 Index,NIY,JPY
+CSC,Cheese,CSC,USD
+EPZ,Polish zloty,EPZ,EUR
+MSF,Swiss franc,MSF,USD
+EM,1 Month LIBOR (Int. Rate),GLB,USD
+PSF,British pound,PSF,CHF
+RP,European Monetary Union Euro,RP,GBP
+KRW,Korean Won,KRW,USD
+GSCI,S&amp;P-GSCI Index,GD,USD
+DA,MILK CLASS III INDEX,DC,USD
+IXU,Utilities Select Sector Index,XAU,USD
+M6B,British pound,M6B,USD
+CZK,Czech koruna,CZK,USD
+MXP,Mexican Peso,6M,USD
+GF,Feeder Cattle,GF,USD
+E7,European Monetary Union Euro,E7,USD
+EMD,E-mini S&amp;P Midcap 400 Futures,EMD,USD
+IBAA,Bovespa Index - USD,IBV,USD
+DEN,Denver Housing Index,DEN,USD
+CHF,Swiss franc,6S,USD
+LAV,Las Vegas Housing Index,LAV,USD
+ECD,European Monetary Union Euro,ECD,CAD
+NIY,Yen Denominated Nikkei 225 Index,ENY,JPY
+RF,European Monetary Union Euro,RF,CHF
+SDG,San Diego Housing Index,SDG,USD
+MJY,Japanese yen,MJY,USD
+ES,E-mini S&amp;P 500,ES,USD
+IXI,Industrial Select Sector Index,XAI,USD
+AJY,Australian dollar,AJY,JPY
+LB,Random Length Lumber,LBS,USD
+CJY,Canadian dollar,CJY,JPY
+IXB,Materials Select Sector Index,XAB,USD
+HE,Lean Hogs,HE,USD
+EAD,European Monetary Union Euro,EAD,AUD
+ZAR,South African Rand,6Z,USD
+MNH,United States dollar,MNH,CNH
+EHF,Hungarian forint,EHF,EUR
+CHI,Chicago Housing Index,CHI,USD
+PLN,Polish zloty,PLN,USD
+SJY,Swiss franc,SJY,JPY
+M6A,Australian dollar,M6A,USD
+CNH,United States dollar,CNH,CNH
+BRE,Brazilian Real in US Dollars,6L,USD
+IXR,Consumer Staples Select Sector Index,XAP,USD
+CUS,Housing Index Composite,CUS,USD
+LE,Live Cattle,LE,USD
+RY,European Monetary Union Euro,RY,JPY
+SVX,S&amp;P 500 / Citigroup Value Index,SU,USD
+BQX,CME E-Mini NASDAQ Biotechnology,BIO,USD
+SEK,Swedish krona,SEK,USD
+RMB,CME Chinese Renminbi in US Dollar Cross Rate,RMB,USD
+IXE,Energy Select Sector Index,XAE,USD
+M6E,European Monetary Union Euro,M6E,USD
+SMC,E-Mini S&amp;P SmallCap 600 Futures,SMC,USD
+CB,CME Cash-Settled Butter Futures,CB,USD
+MCD,Canadian dollar,MCD,USD
+CAD,Canadian dollar,6C,USD
+AUD,Australian dollar,6A,USD
+IXV,Health Care Select Sector Index,XAV,USD
+NOK,Norwegian krone,NOK,USD
+ILS,Israeli Shekel in US Dollar,ILS,USD
+NQ,E-mini NASDAQ 100 Futures,NQ,USD
+ACD,Australian dollar,ACD,CAD
+NKD,Dollar Denominated Nikkei 225 Index,NKD,USD
+HUF,Hungarian forint,HUF,USD
+RME,CME Chinese Renminbi in Euro Cross Rate,RME,EUR
+DY,CME DRY WHEY INDEX,DY,USD
+LAX,Los Angeles Housing Index,LAX,USD
+WDC,Washington DC Housing Index,WDC,USD
+SPX,S&amp;P 500 Stock Index,SP,USD
+SFR,San Francisco Housing Index,SFR,USD
+IXT,Technology Select Sector Index -,XAK,USD
+SIR,Indian Rupee,SIR,USD
+GE,GLOBEX Euro-Dollar,GE,USD
+GDK,Class IV Milk - 200k lbs,GDK,USD
+NF,NON FAT DRY MILK INDEX,GNF,USD
+RUR,Russian Ruble in US Dollars,6R,USD
+NZD,New Zealand dollar,6N,USD
+ECK,Czech koruna,ECK,EUR
+PJY,British pound,PJY,JPY
+MIR,Indian Rupee,MIR,USD
+NYM,New York Housing Index,NYM,USD
+EUR,European Monetary Union Euro,6E,USD
+IXY,Consumer Discretionary Select Sector Index,XAY,USD
+J7,Japanese yen,J7,USD
+SGX,S&amp;P 500 / Citigroup Growth Index,SG,USD
+BOS,Boston Housing Index,BOS,USD
+RTY,Russell 2000 Index,RTY,USD
+IXM,Financial Select Sector Index,XAF,USD
+JPY,Japanese yen,6J,USD
+GBP,British pound,6B,USD
+MIA,Miami Housing Index,MIA,USD
